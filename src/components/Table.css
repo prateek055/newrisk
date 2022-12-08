@@ -1,0 +1,12 @@
+.main__table {
+  padding-top: 20px;
+  
+}
+
+.p-datatable-tbody tr {
+  background: #ebe5e5 !important;
+}
+
+.p-datatable-thead tr {
+  background: #86a8c9;
+}

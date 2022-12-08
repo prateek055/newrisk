@@ -1,0 +1,38 @@
+.card .canva {
+    position: relative;
+    left: -50px;
+    width: 60%;
+    box-sizing: border-box;
+    display: block;
+    top: 26px;
+  }
+  
+  .p-card .p-card-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    margin: 6px;
+  }
+  
+  .card {
+    display: flex;
+  }
+  .dummy__data__container {
+    margin-top: 35px;
+    margin-left: -70px;
+    width: 220px;
+  }
+  
+  .tabs {
+    background-color: rgb(235, 229, 229);
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    margin-bottom: 5px;
+    align-items: center;
+    padding: 10px;
+  }
+  
+
+    

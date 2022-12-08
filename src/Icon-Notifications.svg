@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Icon-Notifications" transform="translate(-8 -26)">
+    <rect id="icon_container" data-name="icon container" width="30" height="30" transform="translate(8 26)" fill="none"/>
+    <g id="icn_notifications" data-name="icn notifications" transform="translate(15 32)">
+      <g id="Group_51" data-name="Group 51">
+        <path id="Path_51" data-name="Path 51" d="M47.671,126.72a3,3,0,1,0,6,0" transform="translate(-42.67 -111.72)" fill="none" stroke="#141e28" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_52" data-name="Path 52" d="M16.089,14.561l-.6-.8a6.068,6.068,0,0,1-1.215-3.639V7.206A5.717,5.717,0,0,0,9.486,1.6c-.939-.046-1.106.025-1.972,0A5.717,5.717,0,0,0,2.725,7.206v2.917A6.068,6.068,0,0,1,1.51,13.761l-.6.8A2.053,2.053,0,0,0,.5,15.792a.8.8,0,0,0,.8.79H15.7a.8.8,0,0,0,.8-.79A2.053,2.053,0,0,0,16.089,14.561Z" transform="translate(-0.5 -1.582)" fill="none" stroke="#141e28" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

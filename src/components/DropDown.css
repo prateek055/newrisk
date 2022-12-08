@@ -1,0 +1,7 @@
+.filters {
+  display: flex;
+}
+
+.filter__individual {
+  margin-left: 10px;
+}

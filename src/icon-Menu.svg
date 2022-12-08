@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="29" viewBox="0 0 17 29">
+  <g id="icon-Menu" transform="translate(-10 -25)">
+    <rect id="icon_container" data-name="icon container" width="17" height="29" transform="translate(10 25)" fill="none"/>
+    <g id="icn_menu" data-name="icn menu" transform="translate(17 32)">
+      <circle id="Ellipse_23" data-name="Ellipse 23" cx="1.5" cy="1.5" r="1.5" fill="#666"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" cx="1.5" cy="1.5" r="1.5" transform="translate(0 6)" fill="#666"/>
+      <circle id="Ellipse_25" data-name="Ellipse 25" cx="1.5" cy="1.5" r="1.5" transform="translate(0 12)" fill="#666"/>
+    </g>
+  </g>
+</svg>

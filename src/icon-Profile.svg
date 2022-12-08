@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_120" data-name="Path 120" d="M1,9.94A8.932,8.932,0,1,0,9.932,1,8.937,8.937,0,0,0,1,9.94" transform="translate(-1 -1)" fill="none" stroke="#141e28" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="icon-Profile" transform="translate(-9 -26)">
+    <rect id="icon_container" data-name="icon container" width="30" height="30" transform="translate(9 26)" fill="none"/>
+    <g id="icn_profile" data-name="icn profile" transform="translate(15 32)">
+      <ellipse id="Ellipse_70" data-name="Ellipse 70" cx="8.956" cy="8.956" rx="8.956" ry="8.956" transform="translate(0.089 0.088)" fill="none" stroke="#141e28" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Group_210" data-name="Group 210" clip-path="url(#clip-path)">
+        <path id="Path_118" data-name="Path 118" d="M7.831,9.059a3.847,3.847,0,1,1,3.847,3.851A3.849,3.849,0,0,1,7.831,9.059Z" transform="translate(-2.747 -2.073)" fill="none" stroke="#141e28" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Path_119" data-name="Path 119" d="M5.016,20.988a5.724,5.724,0,0,1,5.943-5.477A5.724,5.724,0,0,1,16.9,20.988c0,3.025-2.66,3.038-5.943,3.038S5.016,24.013,5.016,20.988Z" transform="translate(-2.027 -4.7)" fill="none" stroke="#141e28" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

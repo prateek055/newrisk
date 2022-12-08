@@ -1,0 +1,19 @@
+.card {
+    display: flex;
+  }
+  .card .canva {
+    position: relative;
+    left: -50px;
+    width: 60%;
+    box-sizing: border-box;
+    display: block;
+    top: 26px;
+  }
+  
+  .p-card .p-card-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    margin: 6px;
+  }
+  
